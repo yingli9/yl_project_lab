@@ -1,3 +1,6 @@
 Hi this is File_3 line_1
 Hi this is File_3 line_2
 Hi this is File_3 line_3
+i am adding text
+because i was told
+im a good boy
